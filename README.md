@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm U. Naga Vamsi Priya</h1>
 
 <h3 align="center">
-AI & Data Science Student | Java Developer | AI & Full-Stack Enthusiast
+Aspiring Software Engineer | Java Developer | AI & Data Science Student
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Passionate about building intelligent software solutions through Artificial Inte
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=PriyaUppalanchu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=PriyaUppalanchu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ Passionate about building intelligent software solutions through Artificial Inte
 
 - 🎓 Final Year B.Tech in **Computer Science Engineering (Artificial Intelligence & Data Science)**
 - 🏫 Vishnu Institute of Technology, Bhimavaram
-- 💻 Passionate about **Java, Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development**
+- 💻 Interested in **Java, Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development**
 - 🌱 Currently learning **Java DSA, Spring Boot, System Design, and Generative AI**
 - 🚀 Love building real-world projects and continuously exploring emerging technologies
 - 🤝 Always eager to learn, collaborate, and contribute to impactful projects
@@ -29,7 +29,7 @@ Passionate about building intelligent software solutions through Artificial Inte
 
 ### 👩‍🔬 Research Intern | SRM University-AP
 - Worked on Artificial Intelligence and Deep Learning projects under faculty mentorship.
-- Gained practical experience in Computer Vision, Machine Learning, and AI research.
+- Gained practical experience in Computer Vision, Machine Learning, AI research, and intelligent systems.
 
 ### 📊 Data Analytics Intern | SmartBridge
 - Completed a virtual internship focused on Data Analytics.
@@ -41,10 +41,10 @@ Passionate about building intelligent software solutions through Artificial Inte
 
 - 🎓 Attended the **Generative AI Workshop** at **IIT Hyderabad (IITH)**.
 - 🤖 Participated in the **Next Generation Intelligent Systems (NGIS) Workshop** at **SRM University-AP**.
-- ☁ Successfully completed multiple **Google Arcade** learning challenges on Google Cloud technologies.
+- ☁ Completed multiple **Google Arcade** learning challenges focused on Google Cloud technologies.
 - ☁ Active **Salesforce Trailblazer** and earned the **Salesforce Certified AI Associate** certification.
-- 🏆 Actively participate in hackathons, workshops, coding events, and technical communities.
-- 🚀 Passionate about learning new technologies and applying them to solve real-world problems.
+- 🏆 Active participant in hackathons, workshops, coding events, and technical communities.
+- 🚀 Passionate about learning emerging technologies and applying them to solve real-world problems.
 
 ---
 
@@ -79,11 +79,11 @@ Passionate about building intelligent software solutions through Artificial Inte
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚗 **CADRAS** | AI-powered Context-Aware Driver Assistance & Risk Assessment System. | YOLOv8, MobileNetV2, TensorFlow, OpenCV |
-| 📄 **Explainable Research Decision Support System** | RAG-based platform for research paper retrieval and comparison. | Python, FAISS, Hugging Face, Streamlit |
-| 📊 **ATS Resume Analyzer** | AI-powered resume screening and ATS compatibility analyzer. | Python, Streamlit, NLP |
+| 🚗 **CADRAS** | AI-powered road safety system for driver behavior, drowsiness detection, and scene understanding. | YOLOv8, MobileNetV2, TensorFlow, OpenCV |
+| 📄 **Explainable Research Decision Support System** | AI-powered research assistant for paper retrieval, comparison, and explainable insights. | Python, FAISS, Hugging Face, Streamlit |
+| 📊 **ATS Resume Analyzer** | Resume analyzer that evaluates ATS compatibility and suggests improvements. | Python, Streamlit, NLP |
 | 🏥 **Health Management System** | Full-stack healthcare and patient management application. | Node.js, Express.js, MongoDB |
-| 📈 **UNESCO World Heritage Dashboard** | Interactive Tableau dashboard for data visualization. | Tableau, SQL |
+| 📈 **UNESCO World Heritage Dashboard** | Tableau dashboard for visualizing UNESCO World Heritage data. | Tableau, SQL |
 
 ---
 
@@ -100,17 +100,17 @@ Passionate about building intelligent software solutions through Artificial Inte
 
 - ☕ Java & Data Structures and Algorithms
 - 🌐 Spring Boot
-- 🤖 Generative AI & Large Language Models
 - 🏗️ System Design
 - 💻 Full-Stack Development
+- 🤖 Generative AI & Large Language Models
 - ☁ Cloud Technologies
 
 ---
 
-
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/priyauppalanchu" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -122,6 +122,7 @@ Passionate about building intelligent software solutions through Artificial Inte
 <a href="mailto:uppalanchupriya@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -129,5 +130,5 @@ Passionate about building intelligent software solutions through Artificial Inte
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-I'm always excited to learn new technologies, build meaningful projects, and collaborate with like-minded people. Feel free to explore my repositories and connect with me!
+I'm always excited to learn new technologies, build impactful projects, and collaborate with like-minded people. Feel free to explore my projects, connect with me, and let's build something amazing together! 🚀
 </p>
